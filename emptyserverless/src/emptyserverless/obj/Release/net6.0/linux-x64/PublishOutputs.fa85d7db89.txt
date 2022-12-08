@@ -1,0 +1,5 @@
+/home/ubuntu/environment/emptyserverless/src/emptyserverless/bin/Release/net6.0/publish/emptyserverless.runtimeconfig.json
+/home/ubuntu/environment/emptyserverless/src/emptyserverless/bin/Release/net6.0/publish/emptyserverless.pdb
+/home/ubuntu/environment/emptyserverless/src/emptyserverless/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/ubuntu/environment/emptyserverless/src/emptyserverless/bin/Release/net6.0/publish/emptyserverless.dll
+/home/ubuntu/environment/emptyserverless/src/emptyserverless/bin/Release/net6.0/publish/emptyserverless.deps.json

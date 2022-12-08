@@ -1,0 +1,4 @@
+/home/ubuntu/environment/dotnet-lambda-layer-demo/emptyfunction/src/emptyfunction/bin/Release/net6.0/publish/emptyfunction.runtimeconfig.json
+/home/ubuntu/environment/dotnet-lambda-layer-demo/emptyfunction/src/emptyfunction/bin/Release/net6.0/publish/emptyfunction.pdb
+/home/ubuntu/environment/dotnet-lambda-layer-demo/emptyfunction/src/emptyfunction/bin/Release/net6.0/publish/emptyfunction.dll
+/home/ubuntu/environment/dotnet-lambda-layer-demo/emptyfunction/src/emptyfunction/bin/Release/net6.0/publish/emptyfunction.deps.json
