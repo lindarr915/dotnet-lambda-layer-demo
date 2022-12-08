@@ -13,11 +13,11 @@
   "project": {
     "version": "2.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/environment/dotnet-sample-lib/dotnet-sample-lib.csproj",
+      "projectUniqueName": "/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/dotnet-sample-lib.csproj",
       "projectName": "dotnet-sample-lib",
-      "projectPath": "/home/ubuntu/environment/dotnet-sample-lib/dotnet-sample-lib.csproj",
+      "projectPath": "/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/dotnet-sample-lib.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/environment/dotnet-sample-lib/obj/",
+      "outputPath": "/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9jtQryGC07+uqun9tGrurdFh9FrMqOw86DlDvWrNpTxW4ReKuT7j7TFsWhoryBioIFyYKtriXG+Qnf+dvSXfw==",
+  "dgSpecHash": "d2+Q4If3gDgH7Pdm1SdYE1e7NPg+jvGHohOLh24Za3TMqVGPd83kuUvCIAy0yTt+aj6gJ85JyQYhspr1/BUadg==",
   "success": true,
-  "projectFilePath": "/home/ubuntu/environment/dotnet-sample-lib/dotnet-sample-lib.csproj",
+  "projectFilePath": "/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/dotnet-sample-lib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

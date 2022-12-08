@@ -10,6 +10,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="/home/ubuntu/environment/dotnet-sample-lib/bin/Release/net6.0/dotnet-sample-lib.dll" target="lib/net6.0/dotnet-sample-lib.dll" />
+    <file src="/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/bin/Release/net6.0/dotnet-sample-lib.dll" target="lib/net6.0/dotnet-sample-lib.dll" />
   </files>
 </package>

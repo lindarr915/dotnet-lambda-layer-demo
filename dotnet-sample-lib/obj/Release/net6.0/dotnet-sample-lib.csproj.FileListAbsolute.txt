@@ -10,3 +10,15 @@
 /home/ubuntu/environment/dotnet-sample-lib/obj/Release/net6.0/refint/dotnet-sample-lib.dll
 /home/ubuntu/environment/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.pdb
 /home/ubuntu/environment/dotnet-sample-lib/obj/Release/net6.0/ref/dotnet-sample-lib.dll
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/bin/Release/net6.0/dotnet-sample-lib.deps.json
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/bin/Release/net6.0/dotnet-sample-lib.dll
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/bin/Release/net6.0/dotnet-sample-lib.pdb
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.csproj.AssemblyReference.cache
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.AssemblyInfoInputs.cache
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.AssemblyInfo.cs
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.csproj.CoreCompileInputs.cache
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.dll
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/refint/dotnet-sample-lib.dll
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/dotnet-sample-lib.pdb
+/home/ubuntu/environment/dotnet-lambda-layer-demo/dotnet-sample-lib/obj/Release/net6.0/ref/dotnet-sample-lib.dll
